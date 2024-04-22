@@ -1,4 +1,9 @@
 .idea/libraries
 .idea/tasks.xml
 .idea/workspace.xml
+.idea/compiler.xml
+.idea/ecnodings.xml
+.idea/misc.xml
+.idea/modules.xml
+*.iml
 target
